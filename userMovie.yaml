@@ -1,5 +1,7 @@
 payload:
 #自定义规则 格式请参考教程--------------
+#Misty
+  - DOMAIN-SUFFIX,misty.cx
 #Misaka
   - DOMAIN-SUFFIX,misakaf.org
 #!Emby-树状图
