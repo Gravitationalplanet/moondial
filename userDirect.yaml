@@ -73,3 +73,9 @@ payload:
   - DOMAIN-SUFFIX,z.sfcj.org
 #起点
   - DOMAIN-SUFFIX,qidian.com
+
+#win系统更新不走代理以免浪费流量
+  - DOMAIN-SUFFIX,windowsupdate.com      
+
+#classical形式的rule-provider支持路由规则的全部类型(rule-set/sub-rule 除外)
+#可用规则格式如下https://wiki.metacubex.one/config/rules/
