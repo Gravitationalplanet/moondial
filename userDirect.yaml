@@ -38,10 +38,10 @@ payload:
 #hka大佬自建
   - DOMAIN-SUFFIX,hka-emby.aliz.work
 #!Emby-HXD（好鸭机场服）
-  - DOMAIN-SUFFIX,bili.bili.rip
-  - DOMAIN-SUFFIX,cdn.bili.rip
-  - DOMAIN-SUFFIX,cf.bili.rip
-  - DOMAIN-SUFFIX,hxd.as174.com
+#  - DOMAIN-SUFFIX,bili.bili.rip
+#  - DOMAIN-SUFFIX,cdn.bili.rip
+#  - DOMAIN-SUFFIX,cf.bili.rip
+#  - DOMAIN-SUFFIX,hxd.as174.com
 #!Emby-JMS（好鸭机场服）
   - DOMAIN-SUFFIX,jms2.niceduck.lol
 #!Emby-NMEmby
@@ -75,6 +75,9 @@ payload:
   - DOMAIN-SUFFIX,z.sfcj.org
 #桃子
   - DOMAIN-SUFFIX,embymv.tk
+#hxd
+  - DOMAIN-SUFFIX,hxd.as174.com
+  - DOMAIN-SUFFIX,cf.bili.rip
 #起点
   - DOMAIN-SUFFIX,qidian.com
 
