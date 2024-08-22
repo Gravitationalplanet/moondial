@@ -35,6 +35,8 @@ payload:
   - DOMAIN-SUFFIX,dpx2.1110111.top
   - DOMAIN-SUFFIX,dpx3.1110111.top
   - DOMAIN-SUFFIX,dpxemby.xyz
+#hka大佬自建
+  - DOMAIN-SUFFIX,hka-emby.aliz.work
 #!Emby-HXD（好鸭机场服）
   - DOMAIN-SUFFIX,bili.bili.rip
   - DOMAIN-SUFFIX,cdn.bili.rip
