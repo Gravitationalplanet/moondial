@@ -2,6 +2,8 @@ payload:
 #自定义规则 格式请参考教程--------------
 #Misty
   - DOMAIN-SUFFIX,misty.cx
+#垃圾影视公费服
+  - DOMAIN-SUFFIX,xmsl.org
 #Misaka
   - DOMAIN-SUFFIX,misakaf.org
 #!Emby-树状图
